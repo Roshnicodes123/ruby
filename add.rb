@@ -1,3 +1,3 @@
 a = 12
 b=12
-puts "#{a+b}"
+puts "sum of to numbers #{a+b}"
