@@ -26,7 +26,7 @@ end
  def delete(item)
   if @data.include?(item)
     @data.delete(item)
-    puts " #{item} deleted succefully."
+    puts " #{item} deleted item succefully."
 
 
   else
