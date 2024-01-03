@@ -8,3 +8,6 @@ x = 0
   end
   x +=1
 end
+a = 12
+b=12
+puts "sum of to numbers #{a+b}"
